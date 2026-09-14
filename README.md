@@ -304,7 +304,7 @@ The database is a **single SQLite file** (`sikchat.sqlite`), run in **WAL mode**
 
 ## 📄 License
 
-This project is provided as-is. Add your preferred license here (MIT, GPL, proprietary, etc.) before publishing.
+License MIT Open Source
 
 ---
 
