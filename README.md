@@ -311,3 +311,6 @@ License MIT Open Source
 ## 🙌 Credits
 
 Built with plain PHP + SQLite + vanilla JS — no frameworks, no build tools, just a fast, self-hostable messenger you fully own and control.
+
+# Creator 🧑‍💻
+An Iranian boy who loves the computer world (:
